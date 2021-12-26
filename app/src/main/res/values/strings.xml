@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Suggest App</string>
+    <string name="right"><![CDATA[>]]></string>
+    <string name="lift" ><![CDATA[<]]></string>
+    <string name="suggest_text" >اقتراح</string>
+    <string name="park">حديقة</string>
+    <string name="museum">متحف</string>
+    <string name="football">كرة قدم</string>
+    <string name="bike">عجلة</string>
+    <string name="beach">شاطئ</string>
+    <string name="walking">مشي</string>
+    <string name="swimming">سباحة</string>
+    <string name="shop">متجر</string>
+    <string name="running">ركض</string>
+    <string name="restaurant">مطعم</string>
+</resources>
